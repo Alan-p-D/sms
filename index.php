@@ -1,3 +1,4 @@
+<?php $title = 'Home'?>
 <?php require_once "includes/header.php";?>
   <section class="section">
     <div class="container">
