@@ -1,5 +1,7 @@
 <?php $title = 'Home'?>
-<?php require_once "includes/header.php";?>
+<?php require_once "includes/header.php";
+      require_once "db/cont.php";
+  ?>
   <section class="section">
     <div class="container">
       <h1 class="title">
